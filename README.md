@@ -3,6 +3,7 @@ Práctica de uso de la sintaxis Markdown
 ## Encabezados
 
 # Encabezados de nivel 1
+
 ## Encabezado de nivel 2
 ......
 ##### Encabezado nivel 5
