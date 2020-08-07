@@ -11,7 +11,8 @@ Práctica de uso de la sintaxis Markdown
 
 ## Negritas
 
-**texto**     
+**texto**    
+__otro texto en negrita__      
 
 ## Itálicas
 *texto en italica*  
