@@ -42,3 +42,7 @@ _**texto en negrita y en italica**_
 
 <h6>Encabezado de nivel 6</h6>
 <> tags
+<strong>texto en negrita</strong>
+<em> texto en italica>/em>
+  
+  
