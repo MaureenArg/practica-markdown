@@ -44,9 +44,9 @@ _**texto en negrita y en italica**_
 ## Listas numeradas
 
 1. Primer elemento
--1.1           
--1.2    
--1.3    
+-1.1                   
+-1.2                     
+-1.3             
 2. Segundo elemento
 3. Tercer elemento
 
