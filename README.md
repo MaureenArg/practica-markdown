@@ -41,11 +41,16 @@ _**texto en negrita y en italica**_
 
 
 
-## Listas
+## Listas numeradas
 
 1. Primer elemento
 2. Segundo elemento
 3. Tercer elemento
+
+## Listas no numeradas
+-Primer elemento
+-Segundo elemento
+-Tercer elemento
 
 # HTML
 
