@@ -11,10 +11,10 @@ Práctica de uso de la sintaxis Markdown
 
 ## Negritas
 
-**texto** 
+**texto**     
 
 ## Itálicas
-*texto en italica*
+*texto en italica*  
 _otro texto en italica_
 
 ## Citas textuales
