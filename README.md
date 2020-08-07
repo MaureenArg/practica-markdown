@@ -43,6 +43,10 @@ _**texto en negrita y en italica**_
 
 ## Listas
 
+1. Primer elemento
+2. Segundo elemento
+3. Tercer elemento
+
 # HTML
 
 <h1>Encabezado de nivel 1</h1>
