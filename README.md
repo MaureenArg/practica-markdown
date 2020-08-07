@@ -31,8 +31,13 @@ _**texto en negrita y en italica**_
 
 <a href="https://www.una.ac.cr">Sitio web de la Universidad Nacionan (UNA)</a>
 
+<a href="https://www.una.ac.cr">Sitio web de la Universidad Nacionan (UNA)</a>
+
 
 ## Imágenes
+![ ] (https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/R_logo.svg/200px-R_logo.svg.png)
+
+
 
 ## Listas
 
