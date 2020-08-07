@@ -23,7 +23,7 @@ _**texto en negrita y en italica**_
 
 ## Citas textuales
 
-> En un lugar de la mancha...   
+>_En un lugar de la mancha...   
 
 ## Hipervinculos
 
