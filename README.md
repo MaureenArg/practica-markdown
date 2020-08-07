@@ -36,7 +36,8 @@ _**texto en negrita y en italica**_
 
 ## Imágenes
 ![ ](https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/R_logo.svg/200px-R_logo.svg.png) 
-![] (rlogo)
+![] (rlogo.png)
+<img src= "rlogo.png"alt="Logo de R">
 
 
 
