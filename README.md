@@ -18,6 +18,9 @@ __otro texto en negrita__
 *texto en italica*  
 _otro texto en italica_
 
+***texto en negrita y en italica***   
+_**texto en negrita y en italica**_  
+
 ## Citas textuales
 
 ## Hipervinculos
